@@ -24,7 +24,8 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by: SUDHARSAN S
 RegisterNumber: 212224040334
 ```
-```import pandas as pd
+```
+import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
 from sklearn.model_selection import train_test_split
